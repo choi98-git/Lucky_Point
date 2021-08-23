@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
-
         <variable
             name="activity"
             type="com.example.luckypoint.Roulette" />
@@ -43,7 +42,6 @@
             android:id="@+id/rouletteSystem"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:foregroundGravity="center_horizontal"
             app:layout_constraintBottom_toTopOf="@+id/rotateBtn"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
